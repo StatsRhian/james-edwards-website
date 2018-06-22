@@ -1,5 +1,5 @@
 +++
-date = "2018-04-06T00:00:00"
+date = "2017-09-06T00:00:00"
 title = "Diversity as a Response to User Preference Uncertainty"
 abstract = "This talk addresses the problem of recommending a set of objects (e.g. purchases, videos or news stories) to a user. We wish to choose objects that are most appropriate for the user but selecting on this criterion alone can lead to a set that is insufficiently diverse which results in redundancy in the set. The usual approach to this problem is to explicitly trade off appropriateness and diversity as two separate objectives. In contrast we build on an approach from information retrieval, in which diversity emerges as an extrinsic need. By taking into account uncertainty about the preferences of the user, diversity naturally arises from the need to 'cover the bases' when maximising the overall probability that the user chooses an object. The level of diversity is thus automatically tailored appropriately for the level of uncertainty in the user's preferences. In addition, we show that the choice of model for user behaviour strongly affects the diversity of the optimal set."
 abstract_short = ""
