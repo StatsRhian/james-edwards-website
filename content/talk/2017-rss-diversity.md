@@ -11,7 +11,7 @@ selected = true
 math = true
 
 url_pdf = ""
-url_slides = "static/slides/2017-rss-diversity.pdf"
+url_slides = "slides/2017-rss-diversity.pdf"
 url_video = ""
 #[[url_custom]]
 #    name = "GitHub"
