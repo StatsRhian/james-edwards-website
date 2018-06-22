@@ -15,7 +15,6 @@ url_slides = "https://apreshill.github.io/ohsu-biodatavis/slides.html#1"
 url_video = ""
 #[[url_custom]]
 #    name = "GitHub"
-#    url = "https://github.com/apreshill/ohsu-biodatavis"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
