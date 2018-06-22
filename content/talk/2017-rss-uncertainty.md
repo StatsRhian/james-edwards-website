@@ -17,8 +17,6 @@ url_video = ""
 #    name = "GitHub"
 #    url = "https://github.com/apreshill/ohsu-biodatavis"
 
-
-
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
