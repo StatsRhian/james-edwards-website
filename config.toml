@@ -203,6 +203,11 @@ paginate = 10
   name = "Publications"
   url = "#publications"
   weight = 2
+  
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
