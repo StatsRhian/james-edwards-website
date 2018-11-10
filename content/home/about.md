@@ -42,4 +42,4 @@ weight = 5
 
 My research is concerned with Bayesian sequential decision problems, a primary example of which is the multi-armed bandit problem. We must choose actions over time where there is some information that is important to each decision that is known only with uncertainty. By observing outcomes we can learn more about these uncertainties and therefore make better decisions in the future. A classic difficulty of these problems is how to trade-off exploitation of current knowledge against exploring to gain information.
 
- 
+
