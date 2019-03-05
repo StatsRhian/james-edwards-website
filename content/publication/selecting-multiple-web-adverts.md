@@ -35,9 +35,10 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.tandfonline.com/doi/full/10.1080/01605682.2018.1546650"
+url_pdf = "/pdf/jors_accepted_pub.pdf"
+#url_pdf = "https://www.tandfonline.com/doi/full/10.1080/01605682.2018.1546650"
 #url_preprint = "/pdf/jors_accepted_pub.pdf"
-#url_code = "#"
+url_code = "https://bitbucket.org/jedwards24/multiple_adverts"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
