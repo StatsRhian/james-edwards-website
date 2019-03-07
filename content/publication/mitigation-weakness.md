@@ -35,8 +35,8 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1607.05970.pdf"
-#url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F040D75B80CBEAD864EBEB90860BB787/S0269964816000279a.pdf/on_the_identification_and_mitigation_of_weaknesses_in_the_knowledge_gradient_policy_for_multiarmed_bandits.pdf"
+url_preprint = "https://arxiv.org/pdf/1607.05970.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
