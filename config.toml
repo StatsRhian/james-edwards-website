@@ -211,7 +211,7 @@ paginate = 10
   
 [[menu.main]]
   name = "Software"
-  url = "#software"
+  url = "#projects"
   weight = 3
   
 [[menu.main]]

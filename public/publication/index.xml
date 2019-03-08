@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Selecting Multiple Web Adverts - a Contextual Multi-armed Bandit with State Uncertainty</title>
+      <link>/publication/selecting-multiple-web-adverts/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/selecting-multiple-web-adverts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diversity as a Response to User Preference Uncertainty</title>
       <link>/publication/diversity-user-uncertainty/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/diversity-user-uncertainty/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,7 +35,16 @@
       <pubDate>Mon, 01 May 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/mitigation-weakness/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration and exploitation in Bayes sequential decision problems</title>
+      <link>/publication/exploration-exploitation/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/exploration-exploitation/</guid>
+      <description></description>
     </item>
     
   </channel>

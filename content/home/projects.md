@@ -8,7 +8,7 @@ title = "Software"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 29
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
