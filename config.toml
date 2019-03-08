@@ -210,9 +210,14 @@ paginate = 10
   weight = 2
   
 [[menu.main]]
+  name = "Software"
+  url = "#software"
+  weight = 3
+  
+[[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
